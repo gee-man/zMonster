@@ -1,2 +1,2 @@
 # zMonster
-zMonster
+Web wrapper for ZAP!
